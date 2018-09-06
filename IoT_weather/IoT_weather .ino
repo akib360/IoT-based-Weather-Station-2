@@ -1,5 +1,9 @@
-
-
+/*________________________________________________________________
+| Author : Akib Hosen Khan                                        |
+|         Student of Information & Communication Engineering      |
+| Hardware: ESP8266, DHT11                                        |
+| IoT platform : ThingSpeak                                       |
+|_________________________________________________________________*/
 #include <DHT.h>
 #include <Adafruit_Sensor.h>
 #include <ESP8266WiFi.h>
